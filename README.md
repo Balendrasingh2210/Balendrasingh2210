@@ -4,7 +4,7 @@
 
 - 
 
-- 👀 I’m interested in Web Development and Android Development.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Data Structures and Web development and also I'm doing competetive programming 3⭐ at codechef and 4⭐ at hackkerrank.
 
 
