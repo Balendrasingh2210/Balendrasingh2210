@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Cross platform mobile application development**
 
-- 📫 How to reach me **balendrasingh@gmail.com**
+- 📫 How to reach me **balendrasingh310813@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
